@@ -1,0 +1,6 @@
+{
+  "name": "ROSE AI",
+  "description": "Futuristic female personal AI voice assistant with multilingual command parsing, animated Rose Core visualizer, and Android device automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

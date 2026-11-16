@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ROSE AI</string>
+    <string name="app_tagline">Your Voice. Your Intelligence. Your Control.</string>
+    <string name="accessibility_service_label">ROSE AI Screen Automation</string>
+    <string name="accessibility_service_description">Allows ROSE AI to perform screen actions you explicitly command, such as scrolling, tapping buttons, typing text, going back, and returning home.</string>
+    <string name="notification_listener_label">ROSE AI Media Session Bridge</string>
+</resources>
